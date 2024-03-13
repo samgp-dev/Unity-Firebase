@@ -82,7 +82,7 @@ Dados los datos dichos anteriormente este método primeramente guardará en un '
 
 Para ello busca en el 'snapshot' __el hijo del hijo__ de "Prefabs" `px` que es el nombre de cada uno de los objetos (ej: "p1") 
 
-![](/Documentacion/vista-firebase.png)
+![](/vista-firebase.png)
 
 #### setPosicionInicial()
 
@@ -99,12 +99,12 @@ A continuación hace una variable local `posicionInicial` tipo `Vector3` (vector
 
 Después transforma la posición del `GameObject` dado a la de `posicionInicial`.
 
-![](/Documentacion/inicio.gif)
+![](/inicio.gif)
 
 <details open>
 <summary>Script</summary>
 <br>
 Nuestro script estará ubicado en un 'GameObject' vacío.
 
-![Script](/Documentacion/script.png)
+![Script](/script.png)
 </details>
