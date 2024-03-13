@@ -101,11 +101,10 @@ Después transforma la posición del `GameObject` dado a la de `posicionInicial`
 
 ![](/Documentacion/inicio.gif)
 
-> [!NOTE]  
- <details open>
- <summary>Script</summary>
- <br>
- Nuestro script estará ubicado en un 'GameObject' vacío.
- 
- ![Script](/Documentacion/script.png)
- </details>
+<details open>
+<summary>Script</summary>
+<br>
+Nuestro script estará ubicado en un 'GameObject' vacío.
+
+![Script](/Documentacion/script.png)
+</details>
